@@ -1,5 +1,5 @@
 # desafio-vuejs-springboot-sérgiomiranda
-:wrench: Esse projeto foi um estudo sobre Vue.js e SpringBoot realizado para o desenvolvimento de uma aplicação de gerenciamento de produtos.
+:wrench: Esse projeto é FullStack com Vue.js (FrontEnd) e SpringBoot (BackEnd) realizado para o desenvolvimento de uma aplicação de Gerenciamento de Produtos.
 
 ## :rocket: Tecnologias utilizadas
 
